@@ -1,6 +1,5 @@
 package cap.util;
 
-import cap.action.LoginAction;
 import cap.bean.Admin;
 import com.opensymphony.xwork2.Action;
 import com.opensymphony.xwork2.ActionInvocation;
